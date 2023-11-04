@@ -1,0 +1,15 @@
+# .editorconfig
+root = true
+
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+indent_style = space
+indent_size = 4
+
+[*.py]
+quote_type = single
+
+[*.html]
+indent_size = 2
